@@ -9,7 +9,7 @@ function printcard(contenedor) {
             <h2>${evento.name}</h2>
             <p>${evento.description}</p>
             <div class="texto">
-                <p>${evento.price}</p>
+                <p>$ ${evento.price}</p>
                 <button>Read More</button>
             </div>
         </section>
